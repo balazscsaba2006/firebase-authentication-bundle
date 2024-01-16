@@ -18,9 +18,9 @@
         "php": "^8.0",
         "ext-openssl": "*",
         "psr/cache": ">=3",
-        "symfony/http-client": "^7.0",
-        "symfony/security-bundle": "^7.0",
-        "symfony/dependency-injection": "^7.0.1",
-        "symfony/config": "^7.0"
+        "symfony/http-client": "^6.4 || ^7.0",
+        "symfony/security-bundle": "^6.4 || ^7.0",
+        "symfony/dependency-injection": "^6.4 || ^7.0.1",
+        "symfony/config": "^6.4 || ^7.0"
     }
 }
